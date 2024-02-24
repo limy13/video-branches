@@ -9,6 +9,7 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         Scanner leer= new Scanner (System.in);
         Scanner h=new Scanner (System.in);
+          System.out.println("Esto es un cambio");
         System.out.print("Inserte número de celdas: ");
         int op, N;
         N= leer.nextInt();
